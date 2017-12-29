@@ -10,4 +10,9 @@ function trocarBanner(){
 
 }
 
-setInterval(trocarBanner,2000)
+
+function mudarTexto(){
+
+setInterval(trocarBanner,1000)
+
+}
